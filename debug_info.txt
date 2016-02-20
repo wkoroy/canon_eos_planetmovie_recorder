@@ -1,0 +1,7 @@
+all frames: 1764
+all writen frames: 0
+skipped frames on painting: 829
+elapsed time (sec): 66
+duplicated frames on writing: 0
+stable FPS (calc at start): 29.66
+refresh rate(fps): 26.6
